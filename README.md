@@ -48,8 +48,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center"> <a href="https://github.com/[TuNombreDeUsuario]"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=[Mayv3]&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> </a> <a href="https://github.com/[TuNombreDeUsuario]"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=[TuNombreDeUsuario]&layout=compact&langs_count=8&theme=algolia&hide=other&custom_title=Lenguajes%20Más%20Usados&exclude_repo=repo1,repo2&hide_progress=true&card_width=400"/> </a> </p><p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[TuNombreDeUsuario]&theme=dark&hide_border=true"/> </p>
-
+<p align="center"> <a href="https://github.com/Mayv3"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mayv3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> </a> <a href="https://github.com/Mayv3"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mayv3&layout=compact&langs_count=8&theme=algolia&hide=other&custom_title=Lenguajes%20Más%20Usados&exclude_repo=repo1,repo2&hide_progress=true&card_width=400"/> </a> </p><p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayv3&theme=dark&hide_border=true"/> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
