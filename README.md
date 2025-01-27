@@ -1,15 +1,19 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola! Soy Nicolas. ¿Todo bien?</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 👨‍💻 &nbsp;Actualmente estoy enfocado en fortalecer mis habilidades como desarrollador front-end junior, con experiencia en HTML, CSS, JavaScript, Tailwind, React, Node.js, Express y MySQL.\
+<br/>
 💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras, como mi proyecto Resticy, un gestor de restaurantes que optimiza la experiencia de clientes y personal.\
+<br/>
 🎓 &nbsp;Estoy cursando mi carrera en Davinci Escuela de Arte Multimedial y desarrollando Resticy como parte de mi tesis\
+<br/>
 🌱 &nbsp; Estoy enfocado en aprender más sobre React, arquitectura de software y desarrollo de aplicaciones escalables.\
+<br/>
 ✍️ &nbsp;En mi tiempo libre, trabajo en proyectos personales, aprendo nuevas tecnologías y colaboro en ideas que resuelvan problemas reales.\
+<br/>
 💬 &nbsp;No dudes en contactarme si tienes alguna idea, feedback o simplemente quieres charlar sobre desarrollo web. ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!\
+<br/>
 ✉️ &nbsp;Puedes escribirme a nicopereyra855@gmail.com. ¡Haré lo posible por responderte lo antes posible!\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
