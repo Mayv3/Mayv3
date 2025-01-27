@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola! Soy Nicolas. ¿Todo bien?</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mí
 
 👨‍💻 &nbsp;Actualmente estoy enfocado en fortalecer mis habilidades como desarrollador front-end junior, con experiencia en HTML, CSS, JavaScript, Tailwind, React, Node.js, Express y MySQL.\
 <br/>
@@ -14,11 +14,11 @@
 <br/>
 💬 &nbsp;No dudes en contactarme si tienes alguna idea, feedback o simplemente quieres charlar sobre desarrollo web. ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!\
 <br/>
-✉️ &nbsp;Puedes escribirme a nicopereyra855@gmail.com. ¡Haré lo posible por responderte lo antes posible!\
+✉️ &nbsp;Puedes escribirme a nicopereyra855@gmail.com. ¡Haré lo posible por responderte lo antes posible!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
@@ -32,11 +32,11 @@
 ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Databases
+### 🗃 &nbsp;Bases de datos
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Control de versiones
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -48,41 +48,12 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/[TuNombreDeUsuario]"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=[Mayv3]&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> </a> <a href="https://github.com/[TuNombreDeUsuario]"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=[TuNombreDeUsuario]&layout=compact&langs_count=8&theme=algolia&hide=other&custom_title=Lenguajes%20Más%20Usados&exclude_repo=repo1,repo2&hide_progress=true&card_width=400"/> </a> </p><p align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=[TuNombreDeUsuario]&theme=dark&hide_border=true"/> </p>
+
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
-</p>
-
-### 🎖 &nbsp;My Badges 
-
-[![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
-
-
-### 📜 &nbsp;My Articles
-
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
-
-### 💰 &nbsp;Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi) 
-
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
