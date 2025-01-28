@@ -1,5 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola! Soy Nicolas. ¿Todo bien?</h2>
 
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 👨‍💻 &nbsp;Actualmente estoy enfocado en fortalecer mis habilidades como desarrollador front-end junior, con experiencia en HTML, CSS, JavaScript, Tailwind, React, Node.js, Express y MySQL.\
