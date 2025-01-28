@@ -48,5 +48,16 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center"> <table> <tr> <td> <h3>My GitHub Statistics</h3> <ul> <li><strong>Total Stars:</strong> 0</li> <li><strong>Total Commits:</strong> 396</li> <li><strong>Total PRs:</strong> 3</li> <li><strong>Total Issues:</strong> 0</li> <li><strong>Contributed to:</strong> 3</li> </ul> </td> <td> <h3>My Programming Languages</h3> <ul> <li>JavaScript (29.71%)</li> <li>PHP (21.99%)</li> <li>HTML (18.49%)</li> <li>CSS (16.32%)</li> <li>Vue (6.80%)</li> <li>Hack (3.96%)</li> <li>TypeScript (2.73%)</li> </ul> </td> </tr> </table> </p>
+<p align="center">
+  <a href="https://github.com/Mayv3">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mayv3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/Mayv3">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mayv3&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayv3&theme=dark&hide_border=true"/>
+</p>
 
