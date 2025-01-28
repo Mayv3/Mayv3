@@ -18,7 +18,7 @@
 <br/>
 ✉️ &nbsp;Puedes escribirme a nicopereyra855@gmail.com. ¡Haré lo posible por responderte lo antes posible!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVweHd2MDN6cHAxeDg3Znl0dGhhdnZyMmtpdnJtc2xzcjlxMTg2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" align="right"/>
 
 ### 🛠 &nbsp;Tecnologías
 
