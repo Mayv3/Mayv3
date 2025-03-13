@@ -8,8 +8,6 @@
 <br/>
 💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras, como mi proyecto Resticy, un gestor de restaurantes que optimiza la experiencia de clientes y personal.\
 <br/>
-🎓 &nbsp;Estoy cursando mi carrera en Davinci Escuela de Arte Multimedial y desarrollando Resticy como parte de mi tesis\
-<br/>
 🌱 &nbsp; Estoy enfocado en aprender más sobre React, arquitectura de software y desarrollo de aplicaciones escalables.\
 <br/>
 ✍️ &nbsp;En mi tiempo libre, trabajo en proyectos personales, aprendo nuevas tecnologías y colaboro en ideas que resuelvan problemas reales.\
