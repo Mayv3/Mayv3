@@ -12,9 +12,8 @@
 <br/>
 ✍️ &nbsp;En mi tiempo libre, trabajo en proyectos personales, aprendo nuevas tecnologías y colaboro en ideas que resuelvan problemas reales.\
 <br/>
-💬 &nbsp;No dudes en contactarme si tienes alguna idea, feedback o simplemente quieres charlar sobre desarrollo web. ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones!\
+💬 &nbsp;No dudes en contactarme si tienes alguna idea, feedback Estoy siempre abierto a nuevas oportunidades!\
 <br/>
-✉️ &nbsp;Puedes escribirme a nicopereyra855@gmail.com. ¡Haré lo posible por responderte lo antes posible!
 
 <img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVweHd2MDN6cHAxeDg3Znl0dGhhdnZyMmtpdnJtc2xzcjlxMTg2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" align="right"/>
 
