@@ -40,7 +40,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics.
+### ⚙️ &nbsp;GitHub Analytics..
 
 <p align="center">
   <a href="https://github.com/Mayv3">
