@@ -4,15 +4,15 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí.
 
-👨‍💻 &nbsp;Actualmente estoy enfocado en fortalecer mis habilidades como desarrollador front-end junior, con experiencia en HTML, CSS, JavaScript, Tailwind, React, Node.js, Express y MySQL.\
+&nbsp;Actualmente estoy enfocado en fortalecer mis habilidades como desarrollador front-end junior, con experiencia en HTML, CSS, JavaScript, Tailwind, React, Node.js, Express y MySQL.\
 <br/>
-💡 &nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras, como mi proyecto Resticy, un gestor de restaurantes que optimiza la experiencia de clientes y personal.\
+&nbsp; Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras, como mi proyecto Resticy, un gestor de restaurantes que optimiza la experiencia de clientes y personal.\
 <br/>
-🌱 &nbsp; Estoy enfocado en aprender más sobre React, arquitectura de software y desarrollo de aplicaciones escalables.\
+&nbsp; Estoy enfocado en aprender más sobre React, arquitectura de software y desarrollo de aplicaciones escalables.\
 <br/>
-✍️ &nbsp;En mi tiempo libre, trabajo en proyectos personales, aprendo nuevas tecnologías y colaboro en ideas que resuelvan problemas reales.\
+&nbsp;En mi tiempo libre, trabajo en proyectos personales, aprendo nuevas tecnologías y colaboro en ideas que resuelvan problemas reales.\
 <br/>
-💬 &nbsp;No dudes en contactarme si tienes alguna idea, feedback Estoy siempre abierto a nuevas oportunidades!\
+&nbsp;No dudes en contactarme si tienes alguna idea, feedback Estoy siempre abierto a nuevas oportunidades!\
 <br/>
 
 <img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVweHd2MDN6cHAxeDg3Znl0dGhhdnZyMmtpdnJtc2xzcjlxMTg2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" align="right"/>
